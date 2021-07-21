@@ -12,10 +12,10 @@ captcha = True
 
 # Telegram
 api_token = (
-    "<YOUR BOT TOKEN>"  # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
+    "1890251713:AAH7bsP0_9wAJF13N5zUaTGBS7kleKRIEHk"  # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 )
 
-host = ""  # ip/host where the bot is running
+host = "13.92.137.183"  # ip/host where the bot is running
 
 log_channel = 0  # Channel ID. Example: -1001355597767
 admins = []  # Telegram User ID's. Admins are able to execute command "/airdroplist"
@@ -26,7 +26,7 @@ wallet_changes = 3  # How often a user is allowed to change their wallet address
 mysql_host = "localhost"
 mysql_db = "TelegramAirdropBot"
 mysql_user = "AirdropUser"
-mysql_pw = "<YOUR PASSWORD>"
+mysql_pw = "Longhaine@123"
 
 texts = {
     "start_1": "Hi {} and welcome to our Airdrop!\n\nGet started by clicking the button below.\n\n",
